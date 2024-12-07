@@ -8,9 +8,9 @@
     },
     {
         "name": "Gin and Tonic",
-        "ingredients": ["gin", "tonic water", "lime"],
-        "measurements": ["50ml", "top-up", "1 wedge"],
-        "instructions": "Fill a glass with ice, pour in gin, and top with tonic water. Garnish with a lime wedge.",
+        "ingredients": ["gin", "tonic water"],
+        "measurements": ["50ml", "top-up"],
+        "instructions": "Fill a glass with ice, pour in gin, and top with tonic water.",
         "image_url": "https://ik.imagekit.io/vjt1kualr/drinks/gin_tonic/main-image.jpg"
     },
     {
