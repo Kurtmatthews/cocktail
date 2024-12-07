@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Mojito",
+        "ingredients": ["white rum", "sugar", "lime juice", "soda water", "mint"],
+        "measurements": ["50ml", "1 tsp", "25ml", "top-up", "few leaves"],
+        "instructions": "Muddle mint leaves with sugar and lime juice. Add rum and fill the glass with ice. Top up with soda water and garnish with a mint sprig.",
+        "image_url": "https://example.com/mojito.jpg"
+    },
+    {
+        "name": "Gin and Tonic",
+        "ingredients": ["gin", "tonic water", "lime"],
+        "measurements": ["50ml", "top-up", "1 wedge"],
+        "instructions": "Fill a glass with ice, pour in gin, and top with tonic water. Garnish with a lime wedge.",
+        "image_url": "https://example.com/gin_tonic.jpg"
+    },
+    {
+        "name": "Margarita",
+        "ingredients": ["tequila", "triple sec", "lime juice", "salt"],
+        "measurements": ["50ml", "25ml", "25ml", "pinch"],
+        "instructions": "Rub the rim of a glass with lime and dip in salt. Shake tequila, triple sec, and lime juice with ice, then strain into the glass.",
+        "image_url": "https://example.com/margarita.jpg"
+    },
+    {
+        "name": "Old Fashioned",
+        "ingredients": ["whiskey", "sugar", "bitters", "orange peel"],
+        "measurements": ["50ml", "1 tsp", "2 dashes", "1 slice"],
+        "instructions": "Muddle sugar with bitters in a glass. Add whiskey and ice cubes, stirring gently. Garnish with an orange peel.",
+        "image_url": "https://example.com/old_fashioned.jpg"
+    },
+    {
+        "name": "Espresso Martini",
+        "ingredients": ["vodka", "coffee liqueur", "espresso", "sugar syrup"],
+        "measurements": ["50ml", "25ml", "25ml", "10ml"],
+        "instructions": "Shake vodka, coffee liqueur, espresso, and sugar syrup with ice. Strain into a chilled martini glass.",
+        "image_url": "https://example.com/espresso_martini.jpg"
+    },
+    {
+        "name": "Cosmopolitan",
+        "ingredients": ["vodka", "triple sec", "cranberry juice", "lime juice"],
+        "measurements": ["40ml", "15ml", "30ml", "10ml"],
+        "instructions": "Shake vodka, triple sec, cranberry juice, and lime juice with ice. Strain into a martini glass and garnish with lime.",
+        "image_url": "https://example.com/cosmopolitan.jpg"
+    },
+    {
+        "name": "Pina Colada",
+        "ingredients": ["white rum", "coconut cream", "pineapple juice"],
+        "measurements": ["50ml", "50ml", "100ml"],
+        "instructions": "Blend rum, coconut cream, and pineapple juice with ice until smooth. Serve in a tall glass and garnish with pineapple.",
+        "image_url": "https://example.com/pina_colada.jpg"
+    },
+    {
+        "name": "Whiskey Sour",
+        "ingredients": ["whiskey", "lemon juice", "sugar syrup", "egg white"],
+        "measurements": ["50ml", "25ml", "15ml", "optional"],
+        "instructions": "Shake all ingredients with ice, then strain into a glass. Garnish with a cherry or lemon slice.",
+        "image_url": "https://example.com/whiskey_sour.jpg"
+    },
+    {
+        "name": "Bloody Mary",
+        "ingredients": ["vodka", "tomato juice", "lemon juice", "Tabasco", "Worcestershire sauce", "salt", "pepper"],
+        "measurements": ["50ml", "100ml", "10ml", "dash", "dash", "pinch", "pinch"],
+        "instructions": "Mix all ingredients in a glass with ice. Stir well and garnish with celery or a lemon wedge.",
+        "image_url": "https://example.com/bloody_mary.jpg"
+    },
+    {
+        "name": "Mai Tai",
+        "ingredients": ["white rum", "dark rum", "lime juice", "orange curaçao", "orgeat syrup"],
+        "measurements": ["30ml", "30ml", "25ml", "15ml", "10ml"],
+        "instructions": "Shake all ingredients with ice and strain into a glass filled with crushed ice. Garnish with a mint sprig and lime slice.",
+        "image_url": "https://example.com/mai_tai.jpg"
+    }
+]
